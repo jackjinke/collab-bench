@@ -1,0 +1,13 @@
+# Runtime outputs and judge caches
+runs/
+
+# Extracted plaintext task files (committed only as password-protected archive in task-packs/)
+tasks/
+
+# Workstation-specific local overrides (e.g., private gateway routes or private discounts)
+config/*.local.yaml
+
+# Dependencies & OS noise
+node_modules/
+.DS_Store
+*.tmp
